@@ -1,0 +1,7 @@
+House rules for commit in this project:
+
+1.0: Every commit has to be written in English.
+
+2.0: Commits need to include every change you made to the project and should summarize your changes-
+
+3.0: Do not commit broken or unstable code.

@@ -1,0 +1,16 @@
+House rules for document in this project:
+
+1.0: Write the hole documentation in English.
+
+2.0: Use for every change the current time and date.
+	 e.g.: "01/03/2019 10:04 AM"
+
+3.0: By adding new structures to the code, write down "HowTos", requiered databases and used templates and their usage.
+
+3.1: HowTos should be written clear. Everyone should be able to understand how to use something you changed. 
+
+3.2: Requiered databases should be explained on their interface, their usage and their compability. 
+
+3.3: Used templates need to be written down by their source, the part you used and how you used them.
+
+4.0: The documentation should include ow to employe the project.
