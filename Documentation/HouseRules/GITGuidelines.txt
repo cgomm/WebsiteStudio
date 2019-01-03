@@ -1,0 +1,13 @@
+House rules for git in this project:
+
+1.0: Create a new branch for every feature.
+
+1.1: After finishing the feature merge the branch back into development.
+
+1.3: Branches should contain short version of maintainer and the feature which you implement.
+     e.g. "FWI-Login" as in "FelixWill-Login" or "CGO-Filter" as in "ChristianGommans-Filter".
+
+2.0: Only merge into master for a new release. 
+
+2.1: Deploy newest version on server after creating new release tag. 
+
