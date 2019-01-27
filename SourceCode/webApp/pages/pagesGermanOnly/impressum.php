@@ -10,12 +10,12 @@
  * LastChangeDate: 11.01.2019
  ******************************
  */
-    include('/pagesHeader/header.php');
+    include('../pagesHeader/header.php');
 ?>
 <!-- start of content -->
 <!-- end of content -->
 <?php
-    include('/pagesHeader/footer.php');
+    include('../pagesFooter/footer.php');
 ?>
     </body>
 </html>
