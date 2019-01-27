@@ -27,11 +27,10 @@
     <!-- start of navbar -->
     <!-- ToDo: change the design of the navbar later on accordingly -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand" href="../../index.php">ShatteredTimeCoding</a>
+        <a class="navbar-brand" href="../../index.php">ShatteredTimeCoding</a> <!-- ToDo: change text to ShatteredTimeGaming pre release 1.0.0 -->
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <!-- ToDo: check the href and see if we can shorten them for performance reasons -->
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
